@@ -6,3 +6,10 @@
 - ISCX-VPN2016 [Link](https://www.unb.ca/cic/datasets/vpn.html)
 - CIC-IOT2022 [Link](https://www.unb.ca/cic/datasets/iotdataset-2022.html)
 - CESNET-QUIC22 [Link](https://zenodo.org/records/10728760)
+
+## segmentation Tools
+
+- SplitCap.exe [Link](https://www.netresec.com/?page=SplitCap)
+- Wireshark [Link](https://www.wireshark.org/download.html)
+
+
