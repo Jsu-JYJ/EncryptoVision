@@ -1,0 +1,9 @@
+{
+    "0": "BROWSING",
+    "1": "CHAT",
+    "2": "FTP",
+    "3": "MAIL",
+    "4": "P2P",
+    "5": "Streaming",
+    "6": "VOIP"
+}
